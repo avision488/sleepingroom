@@ -1,0 +1,29 @@
+body {
+  font-family: 'Fredoka', cursive;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  background-image: url(dream.png);
+}
+
+img {
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #ffc0cb;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #ffb6c1;
+}
+
+a:hover {
+  color: darkblue;
+}
